@@ -1,6 +1,6 @@
 # 30DaysOfGoogleCloud
 
-[DO VISIT MY PUBLIC PROFILE ONCE AT](https://www.qwiklabs.com/public_profiles/3ff01889-b8fc-4263-8f9a-89b0247f0b6b)
+[DO VISIT MY PUBLIC PROFILE ONCE AT QWIKLABS BY CLICKING THIS !](https://www.qwiklabs.com/public_profiles/3ff01889-b8fc-4263-8f9a-89b0247f0b6b)
 
 
 **DAY 1:**
